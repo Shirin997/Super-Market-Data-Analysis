@@ -31,6 +31,33 @@ In today’s data-driven world, a lot of businesses rely on in-depth analysis to
 ![sales vs month 12](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/1d0f2074-015e-4afc-a4b3-d260c0061fa1)
 
 2. according to my analysis women parcheses more compare to men.
+
+![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/6921506e-bb00-4814-8de0-c76647761603)
+
+3. in my data the diffrent order status are primarily categorized as:
+- 92.25% of order are marked as deliverd .
+- The remaining precentage consists of order that are "Cancelled","Refunded" or "Return" .
+
+ ![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/d24e024d-ab80-4e72-8494-8143d2d5cc78)
+
+4. Top 10 states:
+
+![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/79725339-459f-47b8-97d9-498579cae799)
+
+5. The adult group made the most contributed:
+    
+![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/ca7d6795-acfe-4bc3-b8a3-311f8135d84a)
+
+6.Amazon and Myntra channels were the top contributor:
+
+![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/1d5afcb3-15f0-484c-9465-62f58e17e9bc)
+
+7. the highest celling category is set:
+
+![image](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/0d1e518d-60bb-4c10-b06a-dcde8ca35db2)
+   
+  
+    
    
 
 
