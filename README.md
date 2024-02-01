@@ -26,9 +26,12 @@ In today’s data-driven world, a lot of businesses rely on in-depth analysis to
 
 # Based on my report insight the outcomes of sales are:
 
-The peak month for sales and orders was March,where 2819 orders were placed of Rs.1928066,while November were lowest with only 2383 orders of Rs.1615356.
+1. The peak month for sales and orders was March,where 2819 orders were placed of Rs.1928066,while November were lowest with only 2383 orders of Rs.1615356.
 
+![sales vs month 12](https://github.com/Shirin997/Super-Market-Data-Analysis/assets/157870774/1d0f2074-015e-4afc-a4b3-d260c0061fa1)
 
+2. according to my analysis women parcheses more compare to men.
+   
 
 
 
